@@ -200,7 +200,6 @@ This project is licensed under the terms specified in the LICENSE file.
 
 ## 🙏 Acknowledgments
 
-- **AG News Dataset**: Zhang et al., 2015
 - **Hugging Face**: For transformers library and model hub
 - **RPP**: For news articles used in bonus task
 
