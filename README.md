@@ -18,10 +18,10 @@ This project implements and compares three state-of-the-art transformer models (
 News_Classification-lab/
 ├── data/                      # Data files
 │   ├── rpp_news_50.csv       # RPP news articles for bonus task
-│   ├── rpp_classified.json   # LLM classifications (bonus)
 │   └── .gitkeep
 ├── notebooks/                 # Jupyter notebooks
 │   └── agnews_train_eval.ipynb  # Main training and evaluation notebook
+│   ├── rpp_classified.json   # LLM classifications (bonus)
 ├── outputs/                   # Results and visualizations
 │   ├── model_f1_comparison.png
 │   ├── confusion_matrices.png
@@ -200,7 +200,6 @@ This project is licensed under the terms specified in the LICENSE file.
 
 ## 🙏 Acknowledgments
 
-- **AG News Dataset**: Zhang et al., 2015
 - **Hugging Face**: For transformers library and model hub
 - **RPP**: For news articles used in bonus task
 
